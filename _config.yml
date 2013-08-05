@@ -3,14 +3,14 @@ pygments: true
 permalink: /posts/:title
 rdiscount:
   extensions: [smart]
-title : Carlos Becker
-production_url : http://carlosbecker.com
-description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
-disqus_shortname: caarlos0blog
+title : Tristan Foureur
+production_url : http://esya.me
+description: "Tristan Foureur"
+disqus_shortname: esya
 # analytics: UA-32899481-1
 gauges: 50f1f940613f5d2cfe000026
 author :
-  name : Carlos Alexandro Becker
-  github : caarlos0
-  twitter : caarlos0
-  email: caarlos0@gmail.com
+  name : Tristan Foureur
+  github : esya
+  twitter : esyacreations
+  email: esya@me.com
