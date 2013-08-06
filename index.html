@@ -10,8 +10,23 @@ cover: "https://dl.dropboxusercontent.com/s/3t9iwrmipq0ji13/2013-04-28%2017.20.0
     <li>
       <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
       <p>{{ post.excerpt}}</p>
-      <a href="{{ post.url }}" class="read-more">Read more</a>
+      <section class="meta">
+      	<a href="{{ post.url }}" class="read-more">Read more</a> | <a href="{{ post.url }}#disqus_thread"></a>
+  	</section>
     </li>
     {% endfor %}
   </ul>
 </section>
+
+<script type="text/javascript">
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'esya'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+var s = document.createElement('script'); s.async = true;
+s.type = 'text/javascript';
+s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
