@@ -37,12 +37,12 @@ suite
 
 And here are the results :
 
-```
+{% highlight text %}
 typeof not undefined x 189,231,381 ops/sec ±12.42% (65 runs sampled)
 typeof undefined x 159,348,486 ops/sec ±10.51% (69 runs sampled)
 Object#hasOwnProperty hit x 21,246,750 ops/sec ±1.19% (86 runs sampled)
 Object#hasOwnProperty fail x 20,544,326 ops/sec ±1.89% (85 runs sampled)
-```
+{% endhighlight %}
 
 ## Conclusion
 To check whether or not an object contains a property, if you're greedy for performance, well, go for `typeof`. 
