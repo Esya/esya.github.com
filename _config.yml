@@ -9,7 +9,6 @@ production_url : http://esya.me
 description: "Tristan Foureur"
 disqus_shortname: esya
 # analytics: UA-32899481-1
-gauges: 50f1f940613f5d2cfe000026
 author :
   name : Tristan Foureur
   github : esya
