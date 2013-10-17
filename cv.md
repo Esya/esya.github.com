@@ -5,12 +5,22 @@ cover: "http://i.imgur.com/MgOBxjz.png"
 ---
 
 # PROFILE
-4+ years of experience in full-stack web development, mostly in PHP. Fascinated by the Web and its technologies, self-learning, and being involved in multiple opensource projects (Weblate, Sickbeard, Head- phones), I keep a close watch on this field and its evolution.
+5+ years of experience in full-stack web development. Fascinated by the Web and its technologies, self-learning, and being involved in multiple opensource projects, I keep a close watch on this field and its evolution. Hacker, tinkerer, regular attendant to various events (LNUG, Great British Node Conf, Blackhat, Defcon, NDH), I never stop broadening my skills.
 
 Bilingual since childhood, I have absolutely no problems scaling into international projects.
 
 ## EXPERIENCE
-### Software Engineer - Telemetry - 04/2013 - Present
+### Software Engineer - Telemetry - 04/2013 - 05/2014
+Created a Javascript–2-Javascript Compiler showcased at the London Node User Group. Designed a NodeJS High-Frequency Trading Platform able to handle 120,000 requests per second per server with an average latency of 600µs. Inventor on a patent involving polymorphic obfuscation.
+
+Technologies used :
+
+* **LevelDB**, **MySQL**, **PostgreSQL**, **Redis**, **ElasticSearch/Logstash/Kibana** stack
+* **NodeJS**, **NPM** (+ Custom NPM server), **Mocha/express/jasmine/etc.**
+* Integration of various vendors’ APIs
+* Protobuf
+* **Php 5.X**
+
 ### Software Engineer - ADOPTEUNMEC — 07/2011 - 02/2013
 Developed many parts of the website (PHP/CodeIgniter/MySQL), the translating platform using Python based on Weblate (Django Framework), and bots that were part of the Continuous Integration Workflow (Ruby), connecting & binding Github/TargetProcess/Jenkins together.
 

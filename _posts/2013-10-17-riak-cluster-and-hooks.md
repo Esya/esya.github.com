@@ -4,9 +4,11 @@ title: "Riak's hooks on multiple nodes"
 category: posts
 ---
 
-I spent a good portion of my day trying to figure out how the node coordination works in Riak with hooks[^hooks]. We were noticing that on our 6-nodes cluster, even if we only pointed our apps at one node, the hooks would trigger randomly on the 6 of them.
+I spent a good portion of my day trying to figure out how the node coordination works in Riak with hooks. We were noticing that on our 6-nodes cluster, even if we only pointed our apps at one node, the hooks would trigger randomly on the 6 of them.
 
-It is because when you send a commit to a node, the hook (be it a post-commit or a pre-commit hook) is triggered only on the **coordinating node**, which can be a different node than **the receiving node**, and this is decided by the internal hashing. This coordinating node takes care of the replication, insuring that at least **N nodes** *(configured per bucket)* have the data [^bucketprops].
+
+
+It is because when you send a commit to a node, the hook[^hooks] (be it a post-commit or a pre-commit hook) is triggered only on the **coordinating node**, which can be a different node than **the receiving node**, and this is decided by the internal hashing. This coordinating node takes care of the replication, insuring that at least **N nodes** *(configured per bucket)* have the data [^bucketprops].
 
 [Eric Redmond](https://github.com/coderoshi) gave me a good illustration of this :
 
@@ -66,5 +68,5 @@ done
 
 
 
-[^hooks]: http://docs.basho.com/riak/latest/theory/concepts/#Commit-Hooks
-[^bucketprops]: http://docs.basho.com/riak/latest/dev/references/http/set-bucket-props/
+[^hooks]: [Commit Hooks](http://docs.basho.com/riak/latest/theory/concepts/#Commit-Hooks)
+[^bucketprops]: [Bucket Properties](http://docs.basho.com/riak/latest/dev/references/http/set-bucket-props/)
