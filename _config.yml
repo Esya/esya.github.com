@@ -1,5 +1,5 @@
 excerpt_separator: "\n\n\n"
-markdown: rdiscount
+markdown: maruku
 pygments: true
 permalink: /posts/:title
 rdiscount:
