@@ -1,6 +1,6 @@
 excerpt_separator: "\n\n\n"
-markdown: maruku
-pygments: true
+markdown: kramdown
+highlighter: pygments
 permalink: /posts/:title
 rdiscount:
   extensions: [smart]
