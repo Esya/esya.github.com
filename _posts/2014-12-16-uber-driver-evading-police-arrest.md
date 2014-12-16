@@ -29,12 +29,14 @@ As soon as we get some signal again we cancel the ride and I write a short revie
 
 > crazy driver almost ran over a police officer and didnt stop at the police barrage endangered our lives
 
+A few minutes later we booked another Uber, who left us safe and sound at the airport.
+
 ### Uber's reply
 >I'm extremely sorry to hear that. We never want you to feel uncomfortable when riding with a driver partner on our system. I totally understand your concern and I'm extremely disappointed to hear this happened. We have a zero tolerance policy for this behaviour and I assure you that our team is following up with driver appropriately, and immediately. To begin with, we've waitlisted his account.
 >
 >
 >Again, I sincerely apologise for this experience and hope you'll give us a chance to make it up to you real soon. Please let me know if there's anything else that I can do.
 
-Since that, they refunded us, but I started questionning their background checks. *And what is a 3$ refund compared to your safety?* But then again, it's India and other taxi companies probably wouldn't even have this kind of commercial gesture.
+Since that, they refunded us, but I started questionning their [background checks](http://blog.uber.com/driverscreening). *And what is a 3$ refund compared to your safety?* But then again, it's India and other taxi companies probably wouldn't even have this kind of commercial gesture.
 
 As of right now, [Uber is already in a lot of troubles in India](http://in.reuters.com/article/2014/12/10/india-rape-uber-driver-idINKBN0JO0CC20141210), this is just another unexpected accident where in the end, luckily, noone was hurt.
