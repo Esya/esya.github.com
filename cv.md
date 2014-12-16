@@ -10,6 +10,7 @@ cover: "http://i.imgur.com/MgOBxjz.png"
 Bilingual since childhood, I have absolutely no problems scaling into international projects.
 
 ## EXPERIENCE
+
 ### Software Engineer - Telemetry - 04/2013 - 05/2014
 Created a Javascript–2-Javascript Compiler showcased at the London Node User Group. Designed a NodeJS High-Frequency Trading Platform able to handle 120,000 requests per second per server with an average latency of 600µs. Inventor on a patent involving polymorphic obfuscation.
 
