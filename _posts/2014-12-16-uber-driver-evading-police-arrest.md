@@ -10,13 +10,13 @@ I haven't posted in a while, because I've been quite busy. I thought that my nex
 
 ![Uber](http://upload.wikimedia.org/wikipedia/commons/8/8d/Uber_logotype.svg)
 
-First of all to give you a bit of context, we're french expatriates living in Chennai, India, where I'm working as the associate CTO for [KRDS](http://www.krds.com). We went this week-end to Bengalore, only an hour away, to get away from the hectic city that Chennai can be and enjoy some bars/restaurants. We use Uber maybe 15 times a month, as it is a convenent solution here, you do not have to bargain with the local *auto rickshaws*, and you usually get a car in 15 minutes max.
+First of all to give you a bit of context, we're french expatriates living in Chennai, India, where I'm working as the associate CTO for [KRDS](http://www.krds.com). We went this week-end to Bangalore, only an hour away, to get away from the hectic city that Chennai can be and enjoy some bars/restaurants. We use Uber maybe 15 times a month, as it is a convenient solution here, you do not have to bargain with the local *auto rickshaws*, and you usually get a car in 15 minutes max.
 
-We've had some minor troubles with some Uber drivers, but just as you would with any other taxi company in India. They almost all use their phone while driving, they sometime spit out the window
+We've had some minor trouble with some Uber drivers, but just as you would with any other taxi company in India. They almost all use their phone while driving, they some time spit out the window
 while driving which is unpleasant but usual here, but nothing came close to this ride we had yesterday.
 
-#### Just an usual Uber ride
-So here we are booking a Uber through the app to get to the airport in Bengalore after a nice week-end, and the driver arrives shortly after. He picks us up, and starts driving. But after driving a few minutes the driver starts telling us that he needs to get some cash from a relative and that we will have to wait a few minutes, saying that this is really important. We wait, parked but still paying for this, for 10 minutes. The person he is waiting for does not come so we ask him to go, reminding him that we have a plane to catch.
+#### Just a usual Uber ride
+So here we are booking a Uber through the app to get to the airport in Bangalore after a nice week-end, and the driver arrives shortly after. He picks us up, and starts driving. But after driving a few minutes the driver starts telling us that he needs to get some cash from a relative and that we will have to wait a few minutes, saying that this is really important. We wait, parked but still paying for this, for 10 minutes. The person he is waiting for does not come so we ask him to go, reminding him that we have a plane to catch.
 
 He drives for around 10 minutes while being on the phone *(but as I said, this is normal in India)*, and then without asking us makes a big detour from the route to the airport, slowing us down by another 20 minutes. We start getting a bit angry but still politely ask him what he's doing and he says that he needs to get some cash. He stops in the middle of a street and a woman gives him 100 ruppees *(roughly 1.40$)* and we realize that this is to pay the highway toll, where we could have just gave him that to save us a good half-hour and a good portion of this ride's price. We tell him that now we might miss our plane because of him...
 
@@ -39,4 +39,4 @@ A few minutes later we booked another Uber, who left us safe and sound at the ai
 
 Since that, they refunded us, but I started questionning their [background checks](http://blog.uber.com/driverscreening). *And what is a 3$ refund compared to your safety?* But then again, it's India and other taxi companies probably wouldn't even have this kind of commercial gesture.
 
-As of right now, [Uber is already in a lot of troubles in India](http://in.reuters.com/article/2014/12/10/india-rape-uber-driver-idINKBN0JO0CC20141210), this is just another unexpected accident where in the end, luckily, noone was hurt.
+As of right now, [Uber is already in a lot of troublein India](http://in.reuters.com/article/2014/12/10/india-rape-uber-driver-idINKBN0JO0CC20141210), this is just another unexpected incident where in the end, luckily, no one was hurt.
