@@ -6,6 +6,7 @@ rdiscount:
   extensions: [smart]
 title : Tristan Foureur
 production_url : http://esya.me
+url: http://www.esya.me
 description: "Tristan Foureur"
 disqus_shortname: esya
 analytics: UA-43731968-1
