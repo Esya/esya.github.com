@@ -10,7 +10,18 @@ cover: "http://i.imgur.com/MgOBxjz.png"
 Bilingual since childhood, I have absolutely no problems scaling into international projects.
 
 ## EXPERIENCE
-### Software Engineer - Telemetry - 04/2013 - 05/2014
+
+### ASSOCIATE CTO - KRDS - 06/2014 - PRESENT
+Managed a team of 25 developers & integrators. Created an automatically scaling video generating/rendering platform based on Redis/Node.js. Designed a complete monitoring architecture on top of Sensu/Graphite/Grafana and the server deployment procedures using Puppet. Supervised the development of various projects, including award-winning Travelling the World by Air France.
+
+Technologies used :
+
+* **Node.js**, **io.js**
+* **PHP 5.X**, with various front-end frameworks
+* **ElasticSearch**, **Sensu/Graphite**, **RabbitMQ**
+* **Phonegap/Cordova**
+
+### SOFTWARE ENGINEER - Telemetry - 04/2013 - 05/2014
 Created a Javascript–2-Javascript Compiler showcased at the London Node User Group. Designed a NodeJS High-Frequency Trading Platform able to handle 120,000 requests per second per server with an average latency of 600µs. Inventor on a patent involving polymorphic obfuscation.
 
 Technologies used :
@@ -21,7 +32,7 @@ Technologies used :
 * Protobuf
 * **Php 5.X**
 
-### Software Engineer - ADOPTEUNMEC — 07/2011 - 02/2013
+### SOFTWARE ENGINEER - ADOPTEUNMEC — 07/2011 - 02/2013
 Developed many parts of the website (PHP/CodeIgniter/MySQL), the translating platform using Python based on Weblate (Django Framework), and bots that were part of the Continuous Integration Workflow (Ruby), connecting & binding Github/TargetProcess/Jenkins together.
 
 Technologies used :
@@ -50,15 +61,15 @@ Technologies used :
 
 Carried on different websites for various customers such as SFR and BNP Paribas, under the direction of the web agency id2i. Developed both the front-end and the back-end, mostly using PHP (With the Symfony framework), MySQL, jQuery.
 
-Technologies used : 
+Technologies used :
 
 * **Php 5**, **Symfony 1.2** using **Doctrine 1** as the main ORM, various plugins
 * **HTML**, **CSS2**, **Javascript (jQuery 1.2)**
 
 ### WEB DEVELOPER - TECHRYS — 07/2008 - 07/2009
-Developed and worked on a Facebook Application that reached 1M+ users, being the top 3 french application for 6 months, and also RadioGet, an audio streaming website that had 50,000+ users per month. 
+Developed and worked on a Facebook Application that reached 1M+ users, being the top 3 french application for 6 months, and also RadioGet, an audio streaming website that had 50,000+ users per month.
 
-Technologies used : 
+Technologies used :
 
 * **PHP 4**
 * **Facebook API** (Using both iFrame and FBML)
@@ -88,14 +99,14 @@ Technologies used :
 
 ## SIDE PROJECTS
 
-* **Stash**, an open-source **Erlang** implementation of the Memcache protocol (both ASCII & Binary), that should be released on Github around July 2013
+* **Stash**, an open-source **Erlang** implementation of the Memcache protocol (both ASCII & Binary)
 * **GithubHelper**, a small Ruby Gem I created and will keep on adding features to, granting developpers the ability to open pullrequests from their terminals.
 
 Collaborating and giving feedbacks/reporting bugs on :
 
 * **Weblate**, an online open-source translating platform based on **Django** (Python)
 * **Symfony**, a PHP full-stack framework (and also helping other developers on IRC)
-* **SickBeard**, a PVR application that searches and manages TV shows. 
+* **SickBeard**, a PVR application that searches and manages TV shows.
 
 ## CONTACT
 

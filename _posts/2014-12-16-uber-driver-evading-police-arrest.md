@@ -39,4 +39,4 @@ A few minutes later we booked another Uber, who left us safe and sound at the ai
 
 Since that, they refunded us, but I started questionning their [background checks](http://blog.uber.com/driverscreening). *And what is a 3$ refund compared to your safety?* But then again, it's India and other taxi companies probably wouldn't even have this kind of commercial gesture.
 
-As of right now, [Uber is already in a lot of troublein India](http://in.reuters.com/article/2014/12/10/india-rape-uber-driver-idINKBN0JO0CC20141210), this is just another unexpected incident where in the end, luckily, no one was hurt.
+As of right now, [Uber is already in a lot of trouble in India](http://in.reuters.com/article/2014/12/10/india-rape-uber-driver-idINKBN0JO0CC20141210), this is just another unexpected incident where in the end, luckily, no one was hurt.
