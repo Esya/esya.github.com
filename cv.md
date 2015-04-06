@@ -20,6 +20,7 @@ Technologies used :
 * **PHP 5.X**, with various front-end frameworks
 * **ElasticSearch**, **Sensu/Graphite**, **RabbitMQ**
 * **Phonegap/Cordova**
+* **Docker**
 
 ### SOFTWARE ENGINEER - Telemetry - 04/2013 - 05/2014
 Created a Javascript–2-Javascript Compiler showcased at the London Node User Group. Designed a NodeJS High-Frequency Trading Platform able to handle 120,000 requests per second per server with an average latency of 600µs. Inventor on a patent involving polymorphic obfuscation.
@@ -80,19 +81,21 @@ Technologies used :
 #### BACK-END
 
 * **PHP** (With various frameworks, such as **Symfony 1.4/2.X**, **CodeIgniter**, **Cake**)
+* **Node.js** (And frameworks such as **sails**, **kraken**..)
 * **MySQL**, **NoSQL (MongoDB)**
-* **Ruby (Rails)**, **Python (Django)**
+* **Ruby (And basic Rails)**, **Python (And basic Django)**
 * **Github** & **Facebook** APIs
 
 #### FRONT-END
 
-* **HTML5**, **CSS3**, **Javascript** (Backbone, Node.js, Angular, Ember, Handlebars, Underscore...)
+* **HTML5**, **CSS3**, **Javascript** (Backbone, Angular, Ember, Handlebars, React...)
 * **jQuery** / **Prototype**
 * CSS preprocessors **(LESS, SaSS)**
 * **Adobe Creative Suite**
 
 #### DEVELOPMENT TOOLS/WORKFLOW
 
+* DevOps : **Docker**, **Puppet**
 * Version control : **Git** (Github) & **Subversion**
 * Continuous Integration : **Jenkins** & **Hudson**
 * Project Management : **TargetProcess**, **Redmine**, **PivotalTracker**
@@ -100,7 +103,6 @@ Technologies used :
 ## SIDE PROJECTS
 
 * **Stash**, an open-source **Erlang** implementation of the Memcache protocol (both ASCII & Binary)
-* **GithubHelper**, a small Ruby Gem I created and will keep on adding features to, granting developpers the ability to open pullrequests from their terminals.
 
 Collaborating and giving feedbacks/reporting bugs on :
 
